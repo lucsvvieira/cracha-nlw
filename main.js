@@ -3,7 +3,7 @@ const LinksSocialMedia = {
   youtube: "UCvAibcR_y0Bic5-67xonqgA",
   facebook: "Kunvieira",
   instagram: "lucsvvieira",
-  twitter: "lucsvvieira"
+  twitter: ""
 }
 
 function changeSocialMediaLinks() {
